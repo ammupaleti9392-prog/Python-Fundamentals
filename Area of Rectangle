@@ -1,0 +1,9 @@
+l=float(input("enter number"))
+b=float(input("enter number"))
+area=l*b
+print("area of rectangle",area)
+
+output:
+enter number5
+enter number8
+area of rectangel 40.0
