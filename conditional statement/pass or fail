@@ -1,0 +1,9 @@
+marks=int(input("enter marks: "))
+if marks>=35:
+  print("pass")
+else:
+  print("fail")
+
+output:
+enter marks: 25
+fail
