@@ -1,0 +1,11 @@
+number=int(input("enter number:"))
+if number > 100:
+  print("number is greater than hundred")
+elif number == 100:
+  print("number is equal to hundred")
+else:
+  print("number is lesser than hundred")
+
+output:
+enter number:100
+number is equal to hundred
