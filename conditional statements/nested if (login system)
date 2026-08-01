@@ -1,0 +1,14 @@
+username=input("enter name:")
+password=input("enter password:")
+if username=="admin":
+  if password=="1234":
+    print("welcome admin")
+  else:
+    print("invalid password")
+else:
+  print("invalid username")
+
+output:
+enter name:admin
+enter password:12345
+invalid password
