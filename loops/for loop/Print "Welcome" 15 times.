@@ -1,0 +1,19 @@
+for i in range(15):
+  print("welcome")
+
+output:
+welcome
+welcome
+welcome
+welcome
+welcome
+welcome
+welcome
+welcome
+welcome
+welcome
+welcome
+welcome
+welcome
+welcome
+welcome
