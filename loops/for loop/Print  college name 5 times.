@@ -1,0 +1,9 @@
+for i in range(5):
+  print("Aditya University")
+
+output:
+Aditya University
+Aditya University
+Aditya University
+Aditya University
+Aditya University
