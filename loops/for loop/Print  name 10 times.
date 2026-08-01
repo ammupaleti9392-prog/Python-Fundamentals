@@ -1,0 +1,14 @@
+for x in range(10):
+  print("angel")
+
+  output:
+angel
+angel
+angel
+angel
+angel
+angel
+angel
+angel
+angel
+angel
