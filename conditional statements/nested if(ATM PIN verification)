@@ -1,0 +1,15 @@
+balance=50000
+pin=int(input("enter pin:"))
+if pin==1234:
+  amount=int(input("enter amount:"))
+  if amount <= balance:
+    print("transaction successful")
+  else:
+    print("insufficient balance")
+else:
+  print("invalid pin")
+    
+
+  output:
+enter pin:123
+invalid pin
