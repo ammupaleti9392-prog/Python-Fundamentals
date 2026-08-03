@@ -1,0 +1,17 @@
+count = 1
+while count<=10:
+  print("angel")
+  count+=1
+
+
+output:
+angel
+angel
+angel
+angel
+angel
+angel
+angel
+angel
+angel
+angel
