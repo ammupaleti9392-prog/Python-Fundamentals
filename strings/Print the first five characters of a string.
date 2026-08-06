@@ -1,0 +1,7 @@
+s = input("Enter a string: ")
+
+print(s[:5])
+
+output:
+Enter a string: Programming
+Progr
