@@ -1,0 +1,11 @@
+s="python"
+for ch in s:
+  print(ch)
+
+output:
+p
+y
+t
+h
+o
+n
