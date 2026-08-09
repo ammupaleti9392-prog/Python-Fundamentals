@@ -1,0 +1,12 @@
+s=input("enter string:")
+ch=input("enter character:")
+count=0
+for c in s:
+  if c==ch:
+    count+=1
+print(count)
+
+output:
+enter string:banana
+enter character:a
+3
